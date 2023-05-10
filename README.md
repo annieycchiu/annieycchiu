@@ -6,4 +6,5 @@ I am a Master's student in the Data Science program at the University of San Fra
 <br/><br/>
 
 📬 Contact me at:
+
 LinkedIn - https://www.linkedin.com/in/annieyuchuan/
