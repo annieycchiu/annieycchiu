@@ -8,7 +8,7 @@ I'm Annie, a dedicated Data Scientist based in the Bay Area. Welcome to my GitHu
 
 🤝 Would love to connect and collaborate on amazing projects!
 
-## My Projects
+### My Projects
 
 Check out some of my featured projects:
 
@@ -17,6 +17,6 @@ Check out some of my featured projects:
 - [Analysis & Predictions](https://github.com/annieycchiu/sf311-airflow-kafka-etl-pipeline) - This project aims to extract insights from SF 311 dataset and predict public service response time.
 
 
-## Let's Connect
+### Let's Connect
 
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/annieyuchuan/).
