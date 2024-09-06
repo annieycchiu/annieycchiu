@@ -15,7 +15,7 @@ Check out some of my featured projects:
 
 - [MLOps](https://github.com/annieycchiu/mlops-app) - This project leverages cloud services and open-source tools to deploy a comprehensive MLOps workflow.
 - [Stats Viz](https://github.com/annieycchiu/probability-interactive-app) - This application offers an interactive way to learn probability and statistics concepts.
-- [SF 311 Insights & Predictions](https://github.com/annieycchiu/sf311-airflow-kafka-etl-pipeline) - This project aims to extract useful insights from sf 311 dataset and predict public service response time.
+- [Analysis & Predictions](https://github.com/annieycchiu/sf311-airflow-kafka-etl-pipeline) - This project aims to extract useful insights from SF 311 dataset and predict public service response time.
 
 
 ## Let's Connect
