@@ -20,4 +20,4 @@ Check out some of my featured projects:
 
 ## Let's Connect
 
-- 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/annieyuchuan/).
+🌐 Find me on [LinkedIn](https://www.linkedin.com/in/annieyuchuan/).
